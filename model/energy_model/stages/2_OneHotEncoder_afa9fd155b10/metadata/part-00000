@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1795739213858,"sparkVersion":"3.5.3","uid":"OneHotEncoder_afa9fd155b10","paramMap":{"outputCols":["building_encoded","day_encoded"],"inputCols":["building_index","day_index"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_afa9fd155b10__output","dropLast":true}}

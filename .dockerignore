@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!prediction/
+!prediction/predict.py
+!model/
+!model/energy_model/
+!model/energy_model/**

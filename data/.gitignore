@@ -1,0 +1,14 @@
+*.pem
+*.key
+.env
+.env.*
+.aws/
+__pycache__/
+*.pyc
+.venv/
+logs/
+shared/
+data/
+screenshots/
+model/energy_model_backup_*/
+training/train_model_backup.py
